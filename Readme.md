@@ -1,4 +1,4 @@
-How to run the Online Banquet Booking System Project using PHP and MySQL
+### How to run the Online Banquet Booking System Project using PHP and MySQL
 
 1. Download the project zip file
 
